@@ -1,10 +1,15 @@
-
 # Build artifacts
-   bin/
-   data.txt
-   student.txt
-   students.txt
-   student.bin
+bin/
+*.o
+*.obj
+*.exe
+*.out
+
+# Week 5 generated files
+data.txt
+student.txt
+students.txt
+student.bin
 
 # VS Code
 .vscode/ipch
